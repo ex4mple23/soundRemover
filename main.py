@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# -*- encoding: utf-8 ID:U1910213 U1910090 U1910001 U1910008-*-
+# -*- ex4mple -*-
 
 import wave
 import contextlib
